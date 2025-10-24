@@ -1,6 +1,6 @@
 # Como iniciar o projeto?
 ```bash
-  cd .\Teacolhe\
+  cd .\TEAcolhe\
 ```
 ```bash
   npx expo start
